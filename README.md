@@ -12,6 +12,12 @@ Further, this system includes a UI interface providing basic functionalities, su
 
 ![image](https://github.com/VermouthVulpix/UI_Stepper_Motor_System/blob/main/Doc/structure.png)
 
+## Quick Demo
+
+This demo demonstrates the real-time display of relationship between stepper motor pulses and DRO readings
+
+![image](https://github.com/VermouthVulpix/UI_Stepper_Motor_System/blob/main/Demo/Demo.gif)
+
 ## Getting Started
 
 ### Dependencies
