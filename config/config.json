@@ -1,0 +1,23 @@
+{
+    "description": {
+        "title": "<b>Motor System Identification</b>",
+        "content": "This system will communicate with controller module,\nWhich actuates the stepper motor and collect encoder reading from digital readout (DRO). \n"
+    },
+    "manual": {
+        "title": "<b>Manual v1.0</b>",
+        "content":"Please refer to README.MD of this project "
+    },
+    "equipment": {
+        "title": "<b>Equipment Lists</b>",
+        "content": "- Stepper Motor & Driver (Nema 17)\n- Digital Readout (DRO)\n- Arduino Mega (Client)\n- PC with user interface"
+    },
+    "document": {
+        "title": "<b>Equipment Lists</b>",
+        "content": "please refer to"
+    },
+    "contact": {
+        "title": "<b>Contact</b>",
+        "content": "Welcome to any comment, please email stonecreek00@gmail.com"
+    }
+
+}
