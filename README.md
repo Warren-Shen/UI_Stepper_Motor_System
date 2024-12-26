@@ -1,5 +1,4 @@
-# Project Title
-
+# User Interface Design, API Design and I/O Integration
 A system includes user-interface to interact with motor and encoder.
 
 ## Description
