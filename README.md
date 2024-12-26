@@ -8,6 +8,10 @@ This project aims at enhancing accuracy of a step motor by integrating digital r
 The step motor is usually easy to be controlled by sending PWM commands, while the disadvantage comes from the lack of encoder. Thus, the pulses sent to the motor is commonly used to viewed as the travelling distance or further converted to the coordinate. This system combines the motor and the DRO. That is, it relies on the DRO readings as the encoder instead of the accumulative pulses. 
 Further, this system includes a UI interface providing basic functionalities, such as triggering the motor, emergency stop and data visualization of the relationship between pulses and encoder readings.
 
+## Structure
+
+![image](https://github.com/VermouthVulpix/UI_Stepper_Motor_System/blob/main/Doc/structure.png)
+
 ## Getting Started
 
 ### Dependencies
