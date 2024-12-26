@@ -30,7 +30,7 @@ This demo demonstrates the real-time display of relationship between stepper mot
 
 Contributors names and contact info
 
-VermouthVilpix  
+VermouthVulpix  
 stonecreek00@gmail.com
 
 ## Version History
