@@ -18,6 +18,10 @@
     "contact": {
         "title": "<b>Contact</b>",
         "content": "Welcome to any comment, please email stonecreek00@gmail.com"
+    },
+    "parameter": {
+        "timeout": 0.1,
+        "plot_interval": 0.01,
+        "plot_frame": 200
     }
-
 }
