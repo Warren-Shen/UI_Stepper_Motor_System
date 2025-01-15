@@ -32,9 +32,13 @@ This demo demonstrates the real-time display of relationship between stepper mot
 
 ### Dependencies
 
-* PyQT6
-* PySerial
-* Arduino
+* PyQT6 6.7.1
+* PySerial 3.5
+* Arduino Mega
+* Matplotlib 3.9.1
+* Pandas 2.2.2
+* Numpy 2.0.0
+
 
 ## Authors
 
